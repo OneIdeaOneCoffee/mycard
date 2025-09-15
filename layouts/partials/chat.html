@@ -1,0 +1,12 @@
+<div id="site-chat" style="border:1px solid #ddd;padding:12px;border-radius:8px;max-width:720px;">
+  <div id="chat-window" style="height:280px;overflow:auto;background:#fff;padding:8px;border-radius:6px;"></div>
+  <form id="chat-form" style="display:flex;gap:8px;margin-top:8px;">
+    <input id="chat-name" placeholder="Seu nome" style="width:160px;padding:6px"/>
+    <input id="chat-input" placeholder="Escreva sua mensagem" style="flex:1;padding:6px"/>
+    <button type="submit">Enviar</button>
+  </form>
+  <small style="display:block;margin-top:6px;color:#666;">
+    Chat com advogado (Não precisa de conta Telegram).
+  </small>
+</div>
+<script src="{{ "assets/js/chat.js" | relURL }}"></script>

@@ -1,7 +1,7 @@
 HOMEPAGE-HUGO-PROFISSIONAL/
 
 README.md
-# Homepage Profissional Hugo – Pacote para Redesenho
+# Homepage
 
 ## Descrição do Projeto
 Este projeto é uma homepage profissional construída com Hugo, organizada para exibir:

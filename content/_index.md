@@ -3,7 +3,7 @@ title: "Sobre mim"
 description: "Advogado • Contato • Informações "
 ---
 
-# Olá, sou Eduardo Sampaio!
+# Olá!
 
 Como advogado, tenho mais de 10 anos de experiência, me dedico a fornecer soluções jurídicas eficazes e personalizadas para indivíduos e empresas, com uma abordagem focada na resolução de conflitos de forma ética e transparente.
 
